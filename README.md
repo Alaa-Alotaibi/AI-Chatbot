@@ -60,8 +60,11 @@ The chatbot is powered by machine learning (ML) and natural language processing 
 - Git
 - API key from OpenAI (or equivalent ML model provider)
 
-### Clone Repository
+🧠 AI Model Details
+Model Type: Transformer-based model (e.g., GPT)
 
-```bash
-git clone https://github.com/yourusername/AI-Chatbot.git
-cd AI-Chatbot
+Training Data: Pre-trained (OpenAI or Hugging Face)
+
+Fine-tuning: Optional custom dataset
+
+Response Logic: Uses context handling, fallback strategies, and prompt engineering
